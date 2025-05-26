@@ -1,0 +1,501 @@
+date,customer_id,product,price,quantity,coupon_code,shipping_city
+2023-12-24,1087,Smartphone,699.99,1,,San Jose
+2023-04-12,1055,Camera,499.99,3,DISCOUNT20,Philadelphia
+2023-11-03,1045,Tablet,399.99,2,,Philadelphia
+2024-08-20,1015,Printer,149.99,1,,Los Angeles
+2024-12-06,1036,Headphones,199.99,5,,San Diego
+2023-11-16,1078,Smartwatch,299.99,5,,Houston
+2024-08-05,1036,Keyboard,89.99,5,WELCOME5,San Diego
+2024-09-07,1000,Headphones,199.99,5,VIPCUSTOMER,Dallas
+2024-07-08,1074,Smartwatch,299.99,1,,New York
+2024-03-03,1039,Smartwatch,299.99,2,,Phoenix
+2023-09-26,1012,Smartphone,699.99,3,,Houston
+2024-05-11,1078,Smartphone,699.99,2,,Chicago
+2023-05-04,1043,Mouse,49.99,4,,San Jose
+2024-04-07,1032,Smartwatch,299.99,4,DISCOUNT20,Philadelphia
+2023-06-21,1042,Laptop,999.99,3,,New York
+2023-08-15,1091,Camera,499.99,3,,New York
+2024-01-12,1010,Monitor,249.99,4,,Philadelphia
+2024-12-08,1045,Smartphone,699.99,2,SAVE10,
+2024-01-27,1005,Smartphone,699.99,4,VIPCUSTOMER,
+2024-07-01,1022,Camera,499.99,1,
+2023-02-05,1061,Tablet,399.99,4,FREESHIP,Dallas
+2023-11-02,1053,Smartwatch,299.99,1,SAVE10,New York
+2023-09-10,1050,Headphones,199.99,2,,Chicago
+2024-01-11,1072,Keyboard,89.99,5,,San Antonio
+2024-11-10,1027,Keyboard,89.99,1,,Dallas
+2024-02-25,1074,Printer,149.99,3,,San Diego
+2024-09-18,1069,Mouse,49.99,3,,Dallas
+2023-03-23,1089,Printer,149.99,1,SAVE10,San Jose
+2024-01-26,1029,Printer,149.99,1,,Philadelphia
+2023-01-06,1053,Tablet,399.99,2,,LA
+2024-04-14,1007,Headphones,199.99,4,,San Diego
+2023-11-25,1031,Smartwatch,299.99,4,,San Antonio
+2023-09-07,1079,Monitor,249.99,4,DISCOUNT20,Phoenix
+2024-04-15,1100,Keyboard,89.99,1,,San Diego
+2024-08-01,1001,Smartphone,699.99,4,,San Jose
+2024-11-14,1065,Printer,149.99,4,,New York
+2023-03-12,1033,Mouse,49.99,4,,Chicago
+2023-03-03,1020,Laptop,999.99,2,,Chicago
+2023-09-23,1058,Smartphone,699.99,1,VIPCUSTOMER,San Antonio
+2023-11-07,1007,Printer,149.99,1,FREESHIP,Dallas
+2024-12-26,1063,Camera,499.99,1,WELCOME5,New York
+2023-08-17,1032,Monitor,249.99,3,,New York
+2023-04-16,1084,Tablet,399.99,1,,Dallas
+2024-12-09,1064,Laptop,999.99,2,SAVE10,San Jose
+2024-06-27,1056,Keyboard,89.99,4,SAVE10,San Diego
+2023-05-06,1032,Tablet,399.99,4,,Los Angeles
+2023-10-18,1021,Monitor,249.99,5,,San Antonio
+2023-02-21,1041,Printer,149.99,4,,San Jose
+2024-02-10,1027,Printer,149.99,2,,San Diego
+2024-12-18,1039,Laptop,999.99,1,FREESHIP,Houston
+2024-05-23,1082,Laptop,999.99,1,,Dallas
+2023-03-22,1064,Smartwatch,299.99,2,,San Antonio
+2023-05-21,1047,Mouse,49.99,5,,Chicago
+2024-03-21,1069,Keyboard,89.99,4,,San Diego
+2023-08-17,1024,Smartwatch,299.99,5,,Los Angeles
+2023-08-12,1027,Monitor,249.99,5,FREESHIP,LA
+2023-07-08,1057,Mouse,49.99,5,,Chicago
+2023-03-05,1018,Laptop,999.99,4,,Houston
+2023-07-17,1020,Tablet,399.99,4,,San Antonio
+2024-05-27,1055,Laptop,999.99,4,,San Jose
+2024-01-06,1034,Keyboard,89.99,3,,Dallas
+2023-01-24,1073,Smartphone,699.99,1,,San Antonio
+2024-05-09,1074,Laptop,999.99,2,,Phoenix
+2023-04-30,1066,Laptop,999.99,3,,Chicago
+2023-04-24,1064,Keyboard,89.99,1,WELCOME5,Phoenix
+2023-02-08,1036,Smartphone,699.99,1,,Philadelphia
+2024-06-07,1066,Mouse,49.99,1,,Dallas
+2024-01-16,1022,Monitor,249.99,1,,Dallas
+2023-05-24,1008,Mouse,49.99,2,,Philadelphia
+2023-05-18,1025,Keyboard,89.99,5,,Chicago
+2024-09-17,1070,Smartphone,699.99,3,,Chicago
+2023-10-25,1088,Camera,499.99,2,,San Antonio
+2024-08-15,1086,Keyboard,89.99,1,,Chicago
+2024-09-03,1032,Smartphone,699.99,5,,Chicago
+2024-11-12,1057,Printer,149.99,3,,Los Angeles
+2024-07-19,1059,Printer,149.99,3,,San Jose
+2023-10-27,1026,Smartwatch,299.99,5,,San Jose
+2024-08-12,1037,Mouse,49.99,4,,Phoenix
+2024-06-26,1003,Tablet,399.99,1,,San Diego
+2024-04-10,1056,Keyboard,89.99,4,VIPCUSTOMER,New York
+2024-08-23,1058,Headphones,199.99,2,,San Jose
+2024-07-12,1088,Camera,499.99,1,VIPCUSTOMER,New York
+2024-03-22,1028,Printer,149.99,2,,San Antonio
+2023-07-02,1100,Camera,499.99,4,,San Diego
+2023-11-02,1085,Mouse,49.99,4,,Houston
+2024-12-24,1030,Camera,499.99,1,,Chicago
+2024-05-15,1080,Printer,149.99,1,,San Jose
+2023-10-12,1076,Headphones,199.99,4,,Houston
+2024-05-11,1095,Printer,149.99,1,,San Diego
+2023-12-24,1030,Laptop,999.99,4,WELCOME5,Chicago
+2024-04-17,1064,Headphones,199.99,3,,Los Angeles
+2024-07-07,1057,Printer,149.99,4,,Dallas
+2024-03-05,1076,Smartphone,699.99,1,,Dallas
+2023-01-07,1014,Camera,499.99,2,,San Jose
+2023-09-09,1048,Camera,499.99,3,SAVE10,San Jose
+2023-08-10,1097,Laptop,999.99,2,,Philadelphia
+2023-10-24,1017,Smartwatch,299.99,1,,Dallas
+2024-02-12,1042,Tablet,399.99,2,,San Jose
+2024-06-30,1074,Keyboard,89.99,3,,San Diego
+2024-11-23,1085,Camera,499.99,4,VIPCUSTOMER,Phoenix
+2023-11-02,1066,Printer,149.99,3,,Dallas
+2023-12-21,1090,Printer,149.99,5,,Chicago
+2024-06-21,1079,Keyboard,89.99,3,,Phoenix
+2023-06-15,1062,Tablet,399.99,5,,Philadelphia
+2024-03-22,1026,Keyboard,89.99,5,,San Antonio
+2023-12-25,1014,Mouse,49.99,3,DISCOUNT20,Phoenix
+2023-10-12,1075,Smartphone,699.99,4,WELCOME5,Phoenix
+2024-08-03,1040,Printer,149.99,5,WELCOME5,New York
+2024-11-14,1075,Tablet,399.99,4,VIPCUSTOMER,San Antonio
+2023-03-13,1063,Laptop,999.99,1,,Philadelphia
+2024-12-15,1068,Headphones,199.99,3,,New York
+2023-11-12,1092,Smartphone,699.99,4,FREESHIP,San Antonio
+2023-11-01,1086,Smartphone,699.99,5,WELCOME5,Dallas
+2024-03-07,1100,Keyboard,89.99,4,,Houston
+2023-11-07,1092,Mouse,49.99,4,SAVE10,Philadelphia
+2024-10-15,1038,Monitor,249.99,2,,New York
+2024-06-07,1006,Keyboard,89.99,5,,San Antonio
+2023-06-13,1076,Tablet,399.99,5,,San Jose
+2024-09-05,1030,Headphones,199.99,5,,San Diego
+2023-11-25,1084,Headphones,199.99,5,,Los Angeles
+2024-08-03,1074,Headphones,199.99,2,VIPCUSTOMER,Phoenix
+2024-02-16,1074,Laptop,999.99,1,,San Diego
+2023-03-06,1012,Camera,499.99,1,FREESHIP,San Antonio
+2023-02-20,1063,Camera,499.99,5,,San Jose
+2024-09-09,1061,Tablet,399.99,3,,Chicago
+2023-11-25,1008,Tablet,399.99,3,,San Jose
+2023-08-09,1065,Mouse,49.99,4,,San Jose
+2023-10-04,1075,Laptop,999.99,3,,Chicago
+2023-03-13,1007,Tablet,399.99,4,,Philadelphia
+2023-10-12,1016,Smartwatch,299.99,3,,San Jose
+2024-02-23,1055,Monitor,249.99,1,,New York
+2024-02-10,1011,Printer,149.99,2,,San Jose
+2023-01-09,1010,Smartwatch,299.99,5,,Chicago
+2024-06-26,1001,Headphones,199.99,2,VIPCUSTOMER,Philadelphia
+2024-01-09,1038,Camera,499.99,2,SAVE10,Dallas
+2024-07-24,1041,Mouse,49.99,3,SAVE10,New York
+2023-09-23,1002,Printer,149.99,2,,San Jose
+2024-07-20,1003,Laptop,999.99,1,,Houston
+2023-02-08,1057,Camera,499.99,4,VIPCUSTOMER,New York
+2023-03-25,1075,Camera,499.99,4,VIPCUSTOMER,Phoenix
+2024-06-10,1022,Mouse,49.99,2,WELCOME5,Philadelphia
+2023-11-13,1022,Smartwatch,299.99,4,,Dallas
+2024-12-12,1007,Tablet,399.99,2,,New York
+2023-10-04,1085,Monitor,249.99,3,,Dallas
+2024-08-22,1066,Camera,499.99,4,,New York
+2023-03-09,1026,Smartphone,699.99,4,,San Jose
+2023-10-21,1097,Printer,149.99,2,VIPCUSTOMER,Dallas
+2023-03-15,1098,Monitor,249.99,1,,Houston
+2023-12-18,1044,Printer,149.99,5,SAVE10,Philadelphia
+2024-08-22,1015,Headphones,199.99,5,DISCOUNT20,Philadelphia
+2024-09-10,1062,Tablet,399.99,5,SAVE10,San Jose
+2023-04-01,1057,Headphones,199.99,2,SAVE10,New York
+2024-07-20,1036,Camera,499.99,4,,Dallas
+2024-04-16,1083,Camera,499.99,3,,San Diego
+2023-04-29,1071,Monitor,249.99,2,,Dallas
+2024-09-10,1047,Tablet,399.99,4,SAVE10,San Diego
+2023-10-16,1057,Smartwatch,299.99,2,,Philadelphia
+2023-04-03,1001,Headphones,199.99,5,,Houston
+2024-12-05,1044,Headphones,199.99,3,SAVE10,Philadelphia
+2024-05-12,1057,Camera,499.99,2,FREESHIP,San Diego
+2024-06-21,1100,Keyboard,89.99,5,,Chicago
+2023-07-27,1027,Smartwatch,299.99,5,DISCOUNT20,San Diego
+2023-05-24,1016,Monitor,249.99,1,,Phoenix
+2024-10-14,1093,Tablet,399.99,2,,San Jose
+2024-10-20,1001,Monitor,249.99,2,,San Antonio
+2023-11-30,1040,Smartwatch,299.99,2,,Phoenix
+2024-02-11,1018,Monitor,249.99,5,,Chicago
+2023-01-05,1008,Printer,149.99,1,,San Antonio
+2024-04-14,1077,Smartphone,699.99,5,,Philadelphia
+2023-07-18,1077,Camera,499.99,5,,Dallas
+2023-04-02,1080,Smartphone,699.99,5,,San Jose
+2024-09-23,1080,Headphones,199.99,1,,Phoenix
+2023-02-12,1022,Laptop,999.99,4,,Houston
+2024-07-14,1080,Smartphone,699.99,5,,Phoenix
+2024-06-03,1092,Keyboard,89.99,5,,San Diego
+2024-07-05,1096,Smartwatch,299.99,5,,Los Angeles
+2023-01-19,1016,Keyboard,89.99,2,,San Diego
+2023-09-15,1081,Tablet,399.99,4,WELCOME5,San Diego
+2023-12-07,1063,Monitor,249.99,3,,Chicago
+2023-10-07,1009,Laptop,999.99,5,,San Diego
+2024-01-26,1068,Camera,499.99,5,,San Diego
+2024-01-03,1062,Smartwatch,299.99,2,,Philadelphia
+2024-02-28,1021,Keyboard,89.99,3,SAVE10,Dallas
+2024-03-19,1022,Smartphone,699.99,1,,Philadelphia
+2023-05-28,1029,Smartphone,699.99,4,SAVE10,Chicago
+2023-07-05,1041,Monitor,249.99,4,,Chicago
+2024-12-07,1092,Keyboard,89.99,3,VIPCUSTOMER,Houston
+2023-01-08,1063,Keyboard,89.99,5,,Los Angeles
+2023-07-03,1030,Smartphone,699.99,5,,Dallas
+2023-04-13,1054,Smartwatch,299.99,2,,New York
+2023-09-23,1054,Monitor,249.99,4,,New York
+2023-07-06,1075,Tablet,399.99,4,,San Jose
+2023-08-08,1003,Tablet,399.99,5,WELCOME5,San Jose
+2024-12-14,1059,Smartwatch,299.99,1,SAVE10,Philadelphia
+2024-11-22,1023,Mouse,49.99,4,,Houston
+2024-07-14,1013,Camera,499.99,4,,Chicago
+NOT_A_REAL_DATE,1021,Monitor,249.99,3,,Phoenix
+2024-08-02,1000,Printer,149.99,5,,New York
+2024-01-07,1093,Laptop,999.99,1,SAVE10,San Diego
+2023-06-09,1031,Keyboard,89.99,2,,San Antonio
+2023-04-28,1017,Tablet,399.99,2,DISCOUNT20,San Antonio
+2024-02-28,1042,Mouse,49.99,3,,Phoenix
+2023-04-10,1078,Monitor,249.99,5,VIPCUSTOMER,Phoenix
+2024-02-08,1079,Camera,499.99,3,FREESHIP,Phoenix
+2023-05-20,1039,Mouse,49.99,3,SAVE10,San Diego
+2024-12-29,1056,Tablet,399.99,2,,New York
+2024-01-24,1056,Headphones,199.99,1,DISCOUNT20,Los Angeles
+2024-11-30,1063,Keyboard,89.99,3,,Philadelphia
+2024-03-31,1100,Laptop,999.99,5,SAVE10,San Diego
+2023-04-06,1035,Tablet,399.99,1,,Philadelphia
+2023-09-11,1093,Monitor,249.99,5,FREESHIP,Los Angeles
+2023-02-01,1099,Laptop,999.99,2,,Houston
+2024-04-17,1025,Tablet,399.99,3,,Phoenix
+2023-09-29,1070,Headphones,199.99,5,,Houston
+2024-07-20,1072,Headphones,199.99,3,,New York
+2024-12-19,1099,Smartwatch,299.99,3,,San Antonio
+2023-05-06,1059,Printer,149.99,1,,Dallas
+2023-06-04,1062,Monitor,249.99,4,VIPCUSTOMER,Philadelphia
+2024-09-11,1072,Camera,499.99,3,,Philadelphia
+2023-04-10,1030,Headphones,199.99,1,,Los Angeles
+2023-01-13,1004,Smartphone,699.99,4,,Philadelphia
+2024-11-27,1000,Keyboard,89.99,3,,New York
+2023-09-14,1077,Smartphone,699.99,3,WELCOME5,Chicago
+2023-05-20,1063,Laptop,999.99,3,SAVE10,Los Angeles
+2023-06-08,1083,Monitor,249.99,1,,San Jose
+2024-04-15,1076,Printer,149.99,5,,Phoenix
+2024-11-26,1012,Keyboard,89.99,2,,San Antonio
+2023-05-04,1072,Tablet,399.99,3,,Phoenix
+2023-05-05,1057,Keyboard,89.99,3,,Dallas
+2023-08-20,1034,Headphones,199.99,1,,Los Angeles
+2023-02-20,1001,Mouse,49.99,1,,Houston
+2023-05-28,1051,Printer,149.99,2,,Phoenix
+2023-08-02,1060,Smartphone,699.99,2,,San Antonio
+2024-08-13,1051,Camera,499.99,2,,Phoenix
+2023-10-29,1050,Smartwatch,299.99,5,,New York
+2024-05-08,1087,Monitor,249.99,4,WELCOME5,San Antonio
+2023-04-20,1007,Monitor,249.99,4,,Houston
+2023-01-31,1055,Headphones,199.99,1,,New York
+2024-10-31,1056,Tablet,399.99,1,,Houston
+2023-08-02,1035,Headphones,199.99,5,,Dallas
+2023-10-17,1027,Mouse,49.99,5,,Philadelphia
+2024-05-17,1042,Smartphone,699.99,3,,San Diego
+2024-06-12,1093,Smartphone,699.99,3,,Philadelphia
+2024-11-20,1024,Laptop,999.99,1,,Los Angeles
+2024-01-14,1082,Mouse,49.99,3,WELCOME5,Los Angeles
+2023-11-02,1051,Keyboard,89.99,5,,San Antonio
+2024-10-19,1077,Tablet,399.99,2,SAVE10,San Antonio
+2023-07-27,1026,Mouse,49.99,4,FREESHIP,San Antonio
+2023-01-23,1065,Keyboard,89.99,1,FREESHIP,San Antonio
+2024-09-14,1036,Keyboard,89.99,5,,Phoenix
+2023-02-05,1023,Laptop,999.99,2,,Dallas
+2023-02-11,1016,Mouse,49.99,2,,New York
+2024-08-11,1081,Headphones,199.99,3,FREESHIP,New York
+2023-01-06,1055,Printer,149.99,5,FREESHIP,San Antonio
+2024-09-21,1050,Smartphone,699.99,5,,New York
+2023-10-29,1076,Smartphone,699.99,4,WELCOME5,Phoenix
+2024-11-22,1066,Printer,149.99,4,,Houston
+2024-03-27,1027,Laptop,999.99,1,DISCOUNT20,Los Angeles
+2023-02-12,1002,Laptop,999.99,5,,Houston
+2024-10-03,1071,Tablet,399.99,5,,Chicago
+2024-02-23,1077,Camera,499.99,2,,San Jose
+2024-02-02,1041,Smartwatch,299.99,2,,New York
+2024-03-10,1086,Printer,149.99,4,,Chicago
+2024-03-08,1014,Headphones,199.99,5,,San Jose
+2023-11-15,1024,Camera,499.99,4,DISCOUNT20,Chicago
+2024-04-28,1068,Laptop,999.99,5,,Houston
+2023-05-24,1076,Headphones,199.99,4,,San Jose
+2023-10-15,1009,Monitor,249.99,3,WELCOME5,Philadelphia
+2024-06-01,1029,Printer,149.99,5,,Philadelphia
+2023-02-08,1073,Smartwatch,299.99,4,VIPCUSTOMER,Los Angeles
+2024-03-28,1100,Mouse,49.99,2,,San Jose
+2023-01-01,1079,Mouse,49.99,3,,Los Angeles
+2023-08-04,1035,Tablet,399.99,3,,Phoenix
+2024-06-04,1098,Mouse,49.99,5,,Houston
+2023-05-08,1083,Printer,149.99,1,,Philadelphia
+2024-03-22,1033,Keyboard,89.99,2,,Houston
+2024-04-08,1054,Headphones,199.99,5,,Philadelphia
+2024-02-29,1068,Smartphone,699.99,4,FREESHIP,San Antonio
+2024-02-05,1011,Headphones,199.99,1,FREESHIP,Philadelphia
+2023-06-01,1011,Camera,499.99,1,DISCOUNT20,San Jose
+2024-03-29,1052,Monitor,249.99,1,,Phoenix
+2024-09-03,1100,Smartwatch,299.99,4,,San Jose
+2023-11-20,1056,Smartwatch,299.99,5,,Los Angeles
+2024-05-07,1019,Camera,499.99,4,SAVE10,Chicago
+2024-05-28,1062,Smartphone,699.99,2,,Philadelphia
+2023-08-23,1038,Monitor,249.99,4,,Chicago
+2023-08-17,1014,Tablet,399.99,4,,San Diego
+2023-09-20,1053,Headphones,199.99,5,,Dallas
+2024-03-06,1095,Tablet,399.99,5,VIPCUSTOMER,Chicago
+2023-07-11,1091,Camera,499.99,3,,Phoenix
+2024-06-22,1002,Monitor,249.99,1,,Los Angeles
+2024-10-13,1085,Printer,149.99,5,DISCOUNT20,Dallas
+2024-07-11,1010,Smartphone,699.99,5,,Dallas
+2024-03-14,1080,Mouse,49.99,5,,Los Angeles
+2024-12-20,1051,Keyboard,89.99,1,,Philadelphia
+2024-03-25,1005,Printer,149.99,5,,San Jose
+2023-10-18,1052,Smartphone,699.99,2,,Phoenix
+2023-06-07,1069,Keyboard,89.99,3,DISCOUNT20,Dallas
+2024-06-13,1042,Tablet,399.99,2,FREESHIP,New York
+2023-01-23,1073,Monitor,249.99,1,WELCOME5,New York
+2023-11-07,1027,Tablet,399.99,3,SAVE10,Los Angeles
+2024-08-16,1043,Mouse,49.99,3,,Phoenix
+2024-06-06,1059,Laptop,999.99,4,,New York
+2024-01-05,1064,Printer,149.99,4,FREESHIP,San Jose
+2023-07-22,1030,Printer,149.99,3,,San Diego
+2024-10-17,1073,Tablet,399.99,2,,San Diego
+2023-07-03,1048,Laptop,999.99,3,DISCOUNT20,San Diego
+2023-03-19,1008,Smartphone,699.99,4,,New York
+2024-01-20,1014,Smartphone,699.99,2,,San Jose
+2023-04-16,1064,Headphones,199.99,2,,Houston
+2024-04-18,1038,Smartwatch,299.99,1,SAVE10,Dallas
+2023-06-05,1050,Headphones,199.99,3,,San Jose
+2024-11-17,1052,Tablet,399.99,1,,Phoenix
+2023-04-06,1096,Tablet,399.99,5,,Los Angeles
+2023-05-05,1063,Camera,499.99,2,FREESHIP,San Jose
+2024-02-24,1024,Headphones,199.99,3,,Los Angeles
+2024-12-18,1077,Keyboard,89.99,2,,Houston
+2024-03-27,1008,Mouse,49.99,4,SAVE10,Phoenix
+2023-08-20,1069,Smartphone,699.99,5,,San Antonio
+2024-06-15,1051,Tablet,399.99,1,,San Antonio
+2023-02-04,1053,Smartwatch,299.99,1,SAVE10,San Jose
+2024-02-06,1047,Printer,149.99,2,,Chicago
+2023-12-22,1043,Printer,149.99,2,,Dallas
+2024-06-26,1045,Printer,149.99,2,WELCOME5,Dallas
+2024-02-24,1059,Printer,149.99,4,,Dallas
+2024-10-04,1071,Mouse,49.99,2,,Los Angeles
+2024-01-28,1086,Laptop,999.99,5,,San Antonio
+2023-02-17,1033,Keyboard,89.99,4,,Dallas
+2024-05-20,1071,Printer,149.99,4,,Houston
+2023-07-11,1073,Headphones,199.99,1,,San Jose
+2024-08-30,1057,Monitor,249.99,4,,Houston
+2023-07-10,1097,Tablet,399.99,4,WELCOME5,Philadelphia
+2023-11-20,1024,Monitor,249.99,5,,Los Angeles
+2023-08-11,1027,Smartphone,699.99,4,,San Antonio
+2023-10-13,1043,Laptop,999.99,5,,Houston
+2024-10-01,1009,Camera,499.99,1,WELCOME5,Phoenix
+2023-04-19,1046,Headphones,199.99,5,,San Diego
+2024-03-18,1000,Laptop,999.99,4,,New York
+2024-05-09,1070,Headphones,199.99,5,SAVE10,Dallas
+2024-03-06,1077,Tablet,399.99,1,,Dallas
+2024-03-25,1045,Keyboard,89.99,5,DISCOUNT20,Houston
+2024-11-03,1052,Keyboard,89.99,3,,Chicago
+2023-11-16,1059,Smartphone,699.99,1,,Dallas
+2024-11-05,1056,Monitor,249.99,4,,Houston
+2024-12-08,1078,Camera,499.99,2,,New York
+2023-06-19,1080,Camera,499.99,2,,Houston
+2023-05-23,1062,Smartwatch,299.99,1,,Philadelphia
+2023-02-12,1049,Smartwatch,299.99,2,,Phoenix
+2024-03-09,1039,Keyboard,89.99,3,SAVE10,Philadelphia
+2023-11-02,1004,Camera,499.99,1,SAVE10,Philadelphia
+2024-06-09,1050,Laptop,999.99,1,WELCOME5,Dallas
+2024-11-29,1036,Smartwatch,299.99,5,,San Diego
+2024-02-11,1098,Keyboard,89.99,2,WELCOME5,Chicago
+2024-01-24,1067,Monitor,249.99,2,,Chicago
+2023-08-20,1019,Keyboard,89.99,3,WELCOME5,San Diego
+2023-10-10,1008,Printer,149.99,3,,San Diego
+2024-03-14,1028,Camera,499.99,5,,Chicago
+2023-05-31,1096,Headphones,199.99,4,,Chicago
+2023-01-01,1017,Monitor,249.99,3,,Philadelphia
+2024-02-01,1001,Headphones,199.99,3,,Dallas
+2023-04-04,1017,Camera,499.99,1,FREESHIP,Houston
+2023-12-09,1005,Smartphone,699.99,2,,Dallas
+2023-03-27,1059,Mouse,49.99,5,WELCOME5,San Antonio
+2023-04-15,1036,Laptop,999.99,5,,Chicago
+2023-07-20,1011,Smartphone,699.99,5,,New York
+2023-02-22,1095,Tablet,399.99,2,,New York
+2023-11-02,1004,Printer,149.99,3,,New York
+2023-05-01,1029,Headphones,199.99,4,,New York
+2023-03-14,1023,Smartwatch,299.99,2,,San Antonio
+2024-06-19,1045,Tablet,399.99,5,,Houston
+2024-11-13,1071,Mouse,49.99,1,,Phoenix
+2024-10-11,1028,Keyboard,89.99,3,,San Diego
+2023-12-03,1016,Smartwatch,299.99,1,,Phoenix
+2023-10-03,1048,Headphones,199.99,4,,San Jose
+2023-07-22,1047,Printer,149.99,1,DISCOUNT20,San Antonio
+2024-10-21,1034,Camera,499.99,3,VIPCUSTOMER,San Antonio
+2023-06-04,1002,Laptop,999.99,1,,New York
+2023-02-27,1084,Camera,499.99,4,,San Antonio
+2023-05-29,1023,Keyboard,89.99,5,FREESHIP,Los Angeles
+2024-06-12,1099,Headphones,199.99,1,,San Jose
+2023-11-12,1022,Headphones,199.99,5,,Phoenix
+2024-04-28,1035,Monitor,249.99,2,,Philadelphia
+2024-12-05,1011,Laptop,999.99,3,,Dallas
+2023-09-02,1073,Mouse,49.99,1,,Los Angeles
+2023-07-04,1085,Laptop,999.99,3,WELCOME5,New York
+2024-01-01,1057,Keyboard,89.99,5,,Dallas
+2023-09-05,1066,Mouse,49.99,1,,San Jose
+2023-08-05,1020,Keyboard,89.99,5,,Houston
+2023-04-30,1066,Camera,499.99,2,,San Antonio
+2024-01-12,1052,Smartwatch,299.99,1,,Phoenix
+2023-01-05,1063,Printer,149.99,1,,Dallas
+2023-05-04,1050,Keyboard,89.99,1,,San Diego
+2024-11-23,1000,Camera,499.99,4,,Houston
+2023-07-13,1022,Headphones,199.99,5,,New York
+2024-10-23,1029,Camera,499.99,5,,San Jose
+2023-10-05,1041,Keyboard,89.99,4,,Dallas
+2024-03-17,1037,Headphones,199.99,2,FREESHIP,San Antonio
+2023-11-09,1064,Smartphone,699.99,1,,Chicago
+2023-09-11,1016,Smartwatch,299.99,5,,Philadelphia
+2023-12-15,1080,Headphones,199.99,1,,New York
+2024-09-22,1069,Monitor,249.99,3,,Los Angeles
+2023-04-12,1065,Monitor,249.99,2,,Phoenix
+2024-09-24,1009,Laptop,999.99,2,FREESHIP,Philadelphia
+2024-02-26,1029,Headphones,199.99,1,,Houston
+2024-12-07,1087,Smartwatch,299.99,1,,New York
+2023-01-16,1013,Keyboard,89.99,4,DISCOUNT20,Philadelphia
+2023-10-09,1028,Monitor,249.99,2,,Dallas
+2023-07-03,1023,Printer,149.99,5,,San Antonio
+2024-06-28,1094,Monitor,249.99,5,,Dallas
+2024-03-30,1042,Laptop,999.99,1,,Philadelphia
+2023-01-13,1071,Smartwatch,299.99,3,,Chicago
+2023-08-18,1014,Headphones,199.99,4,,Houston
+2023-12-11,1017,Mouse,49.99,4,VIPCUSTOMER,San Antonio
+2023-10-15,1042,Mouse,49.99,3,,Los Angeles
+2024-08-15,1073,Camera,499.99,4,SAVE10,Houston
+2024-01-10,1009,Monitor,249.99,1,DISCOUNT20,San Jose
+2024-06-29,1041,Monitor,249.99,5,,San Jose
+2023-05-07,1090,Keyboard,89.99,4,,Los Angeles
+2023-09-01,1021,Printer,149.99,2,,Phoenix
+2024-08-05,1063,Mouse,49.99,1,,Houston
+2023-10-29,1053,Smartphone,699.99,1,,San Jose
+2023-08-01,1093,Smartwatch,299.99,5,SAVE10,Dallas
+2024-09-17,1021,Printer,149.99,4,,San Antonio
+2024-09-03,1048,Camera,499.99,3,,San Diego
+2023-06-11,1099,Headphones,199.99,3,,Dallas
+2023-03-19,1085,Printer,149.99,4,,Houston
+2024-04-24,1087,Monitor,249.99,5,,Houston
+2024-12-14,1059,Keyboard,89.99,5,,San Diego
+2023-07-08,1022,Monitor,249.99,3,FREESHIP,New York
+2024-06-20,1034,Mouse,49.99,2,,Houston
+2023-11-02,1049,Headphones,199.99,1,VIPCUSTOMER,Dallas
+2023-06-05,1015,Smartphone,699.99,3,,Philadelphia
+2023-04-18,1095,Monitor,249.99,3,,Houston
+2024-10-26,1034,Camera,499.99,5,DISCOUNT20,Phoenix
+2023-02-10,1043,Laptop,999.99,3,SAVE10,Chicago
+2023-07-14,1093,Keyboard,89.99,5,,San Diego
+2024-09-23,1080,Printer,149.99,1,,Houston
+2023-07-21,1049,Smartphone,699.99,4,,New York
+2024-07-28,1088,Camera,499.99,2,,San Antonio
+2024-01-08,1077,Headphones,199.99,3,,San Antonio
+2024-03-26,1008,Smartphone,699.99,1,,Philadelphia
+2023-12-07,1030,Smartwatch,299.99,1,,San Diego
+2024-05-13,1056,Camera,499.99,5,,Houston
+2023-03-10,1009,Headphones,199.99,1,DISCOUNT20,San Diego
+2024-04-18,1011,Tablet,399.99,1,,Chicago
+2023-06-17,1038,Keyboard,89.99,3,,Chicago
+2023-07-16,1080,Laptop,999.99,2,,New York
+2023-11-08,1024,Camera,499.99,3,,Dallas
+2024-05-08,1053,Smartwatch,299.99,5,,Phoenix
+2023-11-13,1015,Keyboard,89.99,2,,Houston
+2024-03-09,1042,Tablet,399.99,3,WELCOME5,Dallas
+2023-02-15,1048,Tablet,399.99,4,DISCOUNT20,Los Angeles
+2024-04-04,1053,Keyboard,89.99,5,,Phoenix
+2024-08-13,1096,Keyboard,89.99,4,,Dallas
+2024-07-24,1071,Camera,499.99,1,,Dallas
+2024-06-19,1046,Mouse,49.99,3,,San Diego
+2024-06-24,1045,Keyboard,89.99,2,,Los Angeles
+2024-01-04,1059,Tablet,399.99,2,,San Antonio
+2023-01-06,1098,Smartphone,699.99,4,,San Jose
+2023-04-14,1058,Laptop,999.99,4,SAVE10,Philadelphia
+2024-12-06,1052,Monitor,249.99,5,,Phoenix
+2023-10-22,1089,Laptop,999.99,2,,Chicago
+2023-12-01,1055,Printer,149.99,2,DISCOUNT20,Philadelphia
+2023-09-23,1050,Laptop,999.99,4,WELCOME5,San Antonio
+2023-06-10,1033,Camera,499.99,3,,San Antonio
+2023-11-22,1009,Tablet,399.99,1,,San Diego
+2024-02-22,1019,Mouse,49.99,4,,Los Angeles
+2023-08-14,1029,Monitor,249.99,4,,New York
+2023-03-15,1074,Mouse,49.99,3,,San Jose
+2023-05-31,1073,Smartwatch,299.99,3,,New York
+2024-12-20,1032,Mouse,49.99,4,,Dallas
+2023-04-10,1025,Smartphone,699.99,1,,San Diego
+2024-05-29,1046,Smartphone,699.99,1,,Dallas
+2024-08-03,1065,Camera,499.99,1,,Chicago
+2023-11-25,1098,Smartphone,699.99,5,,San Diego
+2024-12-20,1010,Laptop,999.99,4,,San Antonio
+2023-01-27,1033,Monitor,249.99,2,,Los Angeles
+2023-04-21,1052,Keyboard,89.99,4,,San Diego
+2024-03-06,1076,Smartphone,699.99,3,SAVE10,Chicago
+2024-02-14,1014,Tablet,399.99,5,,San Jose
+2024-10-21,1072,Headphones,199.99,1,WELCOME5,San Antonio
+2023-05-27,1097,Mouse,49.99,1,,San Diego
+2023-10-09,1000,Tablet,399.99,4,,Los Angeles
+2024-04-09,1070,Headphones,199.99,2,DISCOUNT20,Philadelphia
+2023-08-06,1022,Smartwatch,299.99,3,,Houston
+2023-03-13,1097,Laptop,999.99,2,,Los Angeles
+2024-01-24,1003,Laptop,999.99,3,FREESHIP,New York
+2024-10-27,1058,Camera,499.99,1,,San Diego
+2023-09-17,1093,Keyboard,89.99,5,,Houston
+2023-04-02,1028,Printer,149.99,4,,San Antonio
+2023-03-04,1028,Smartwatch,299.99,3,,San Diego
+2023-01-12,1044,Printer,149.99,2,,San Jose
+2024-03-22,1025,Smartphone,699.99,4,DISCOUNT20,Philadelphia
+2023-08-07,1094,Printer,149.99,2,FREESHIP,San Antonio
+2023-09-27,1021,Headphones,199.99,4,,San Antonio
+2023-02-15,1090,Camera,499.99,1,FREESHIP,New York
+2023-03-22,1060,Smartwatch,299.99,1,,Philadelphia
+2024-01-19,1072,Tablet,399.99,4,,New York
+2023-01-12,1087,Smartphone,699.99,1,,New York
+2023-05-15,1086,Laptop,999.99,4,WELCOME5,Dallas
